@@ -1,4 +1,4 @@
-# explorer_project_2 💻 
+# explorer_project_1.2 💻 
 In this project, an application was created from a layout specified in Figma, using basic front end concepts:
 
 - Structuring an HTML project;
